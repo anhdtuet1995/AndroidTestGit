@@ -4,6 +4,6 @@ import android.util.Log;
 
 public class XXXX {
     private static void Hihihi() {
-        Log.d("anh.dt2", "yyyadadsdsdsdsady");
+        Log.d("anh.dt22222", "yyyadadsadyasdasdsadsa");
     }
 }
