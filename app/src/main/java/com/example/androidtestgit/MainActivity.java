@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.d("anh.dt2", "huhuhuhu");
+        Log.d("anh.dt2", "huhuhuhu_dong_to_1");
         Log.d("anh.dt2", "huhuhuhu1");
         Log.d("anh.dt2", "huhuhuhu12123213213");
         Log.d("anh.dt2", "to fix huhuhuhu1");
